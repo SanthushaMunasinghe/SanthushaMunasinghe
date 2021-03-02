@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
   <h2 style="text-align:center; font-family: 'Electroharmonix', arial;">S A N T H U S H A &nbsp;&nbsp; M U N A S I N G H E </h2>
   <p align="center">
-    <img src="https://https://giphy.com/gifs/guitar-60s-hippies-3o8dpbfzkgiDrCwbxm">
+    <img src="https://media.giphy.com/media/3o8dpbfzkgiDrCwbxm/giphy.gif">
   </p>
   <h5 style="text-align:center">G a M e 🎩 D e v e l o p e r  </h5>
   <h5 style="text-align:center"> 🤘🤘 I Am &nbsp; 💀🔥 A 🔥💀&nbsp; Metal Head 🤘🤘 </h5>
