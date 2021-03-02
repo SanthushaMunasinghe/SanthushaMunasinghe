@@ -28,6 +28,5 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/6hoKQifMan35m/giphy.gif">
   </p>
   <h5 style="text-align:center">G a M e 🎩 D e v e l o p e r  </h5>
-  <h5 style="text-align:center"> 🤘🤘 I Am &nbsp; 💀🔥 A 🔥💀&nbsp; Metal Head 🤘🤘 </h5>
   
 </div>
