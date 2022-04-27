@@ -61,5 +61,5 @@ Here are some ideas to get you started:
   ![](https://img.shields.io/badge/Adobe-XD-informational?style=for-the-badge&logo=adobe&logoColor=white&color=2bbc8a)
 -->
 
-<a href="https://santhushamunasinghe.itch.io/quadzee">QuadZee<a/>
+<a href="https://santhushamunasinghe.itch.io/quadzee">QuadZee<a/><br/>
   <a href="https://santhushamunasinghe.itch.io/bounce">Bounce<a/>
